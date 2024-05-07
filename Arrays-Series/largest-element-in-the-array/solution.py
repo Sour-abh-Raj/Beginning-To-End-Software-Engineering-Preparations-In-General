@@ -3,8 +3,6 @@ from collections import *
 from math import *
 
 def largestElement(arr: [], n: int) -> int:
-
-    # Write your code from here.
     curr_lar_el = arr[0]
     if (n==0):
         return []
