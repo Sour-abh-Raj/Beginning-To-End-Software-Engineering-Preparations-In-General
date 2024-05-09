@@ -10,7 +10,7 @@
 # So this solution is the optimal solution for this problem.
 # You can find that solution at Arrays-Basic/1.%20left-rotate-the-array-by-k-elements/solution.py
 
-def solve(arr, n):
+def Solution(arr, n):
     temp = arr[0]
     for i in range(n - 1):
         arr[i] = arr[i + 1]
