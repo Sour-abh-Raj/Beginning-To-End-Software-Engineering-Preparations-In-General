@@ -1,3 +1,9 @@
+# a xor a = 0
+# a xor 0 = a
+# 0 xor a = a
+# 0 xor 0 = 0
+# a is a number
+
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         n = len(nums)

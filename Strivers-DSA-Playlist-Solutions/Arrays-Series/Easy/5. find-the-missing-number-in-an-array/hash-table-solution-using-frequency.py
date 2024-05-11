@@ -1,4 +1,4 @@
-# Since the array only has distinct elements, we caan use the frequency of each element to determine the missing number.
+# Since the array only has distinct elements, we can use the frequency of each element to determine the missing number.
 # We can use a hash table to store the frequency of each element in the array.
 
 class Solution:
