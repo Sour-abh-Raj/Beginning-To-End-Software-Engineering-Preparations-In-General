@@ -1,1 +1,13 @@
+__pycache__/
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.pycache
+*.pycachefile
+*.py~
 tempCodeRunnerFile.py
